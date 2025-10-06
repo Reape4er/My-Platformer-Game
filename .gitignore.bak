@@ -1,0 +1,13 @@
+.DS_store
+.idea
+/.vs
+/.vsconfig
+/**/bin
+/**/obj
+/**/*.Local.json
+/**/*.user
+<<<<<<< Updated upstream
+/**/*.pubxml
+=======
+/**/*.pubxml
+>>>>>>> Stashed changes
